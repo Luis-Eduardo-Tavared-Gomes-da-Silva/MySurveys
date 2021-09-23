@@ -1,1 +1,3 @@
-#MySurveys
+# MyServeys
+
+Web platform for creating surveys.
