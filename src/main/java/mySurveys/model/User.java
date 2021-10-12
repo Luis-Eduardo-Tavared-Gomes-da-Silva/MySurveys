@@ -10,4 +10,5 @@ package mySurveys.model;
  * @author kelvyn
  */
 public class User {
+    
 }
