@@ -9,7 +9,5 @@ package mySurveys.model;
  *
  * @author kelvyn
  */
-public class User {
-    // Attributes
-    private String user_name, email, password;
+public enum Question {
 }
